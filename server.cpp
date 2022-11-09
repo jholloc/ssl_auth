@@ -1,6 +1,8 @@
 #include <iostream>
 #include <netinet/tcp.h>
 #include <netdb.h>
+#include <cstring>
+
 #include "authentication/udaServerSSL.h"
 #include "logging.h"
 

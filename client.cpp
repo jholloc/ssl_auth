@@ -3,6 +3,9 @@
 #include <rpc/rpc.h>
 #include <netinet/tcp.h>
 #include <vector>
+#include <sys/socket.h>
+#include <netdb.h>
+
 #include "authentication/udaClientSSL.h"
 #include "logging.h"
 

@@ -10,6 +10,7 @@
 #include <iostream>
 #include <libgen.h>
 #include <sys/time.h>
+#include <cstring>
 
 #define MAXLOOP 10000
 
